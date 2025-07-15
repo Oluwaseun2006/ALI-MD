@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ALI-MD~bZcySb5R#5HCDLN7M4wVL4hX4zZDSu8nwuRY9gJcsFwszQpK1ZoY",  
+SESSION_ID: process.env.SESSION_ID || "ALI-MD~DAEgybgL#57Jk_GtdtUgBclelLF5-lEszVWM2WTz100_trF58oMo",  
 //chatbot integration 
 CHATBOT: process.env.CHATBOT || "on",
 // add your Session Id 
@@ -38,7 +38,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ALI-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "naijabangtanfamily",    
+STICKER_NAME: process.env.STICKER_NAME || "Arikeh",    
 VPS: process.env.VPS || "",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -46,9 +46,9 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "+2349051321092",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+2347017495704",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "naijabangtanfamily",
+OWNER_NAME: process.env.OWNER_NAME || "Arikeh",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "© ᴘσωєʀє∂ ву αℓι м∂⎯꯭̽💀",
 // add bot desp name    
